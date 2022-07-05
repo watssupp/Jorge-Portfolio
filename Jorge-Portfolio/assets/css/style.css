@@ -1,5 +1,4 @@
 /* controls Jorges Portfolio font, color, position and background */
-
 h1 {
     float: left;
     display: block;
@@ -45,7 +44,6 @@ h2 {
     padding: 14px 16px;
     font-size: 100px;
     margin: 0px;
-
 }
 /* controls the paragrphas font, color, position and background */
 p {
@@ -64,13 +62,11 @@ p {
 }
 /* controls Proficent in font, color, position */
 h3 {
- 
-    color: rgb(2, 2, 92);
+     color: rgb(2, 2, 92);
     padding: 14px 16px;
     font-size: 100px;
     position: relative;
-    top: 75px;
-    
+    top: 75px;    
 }
 /* Position of Picture(Jorge)  */
 #bob {
@@ -78,18 +74,14 @@ h3 {
     right: 0px;
     top: 750px;
     padding: 20px;
-    
 }
 /* Positions CSS,Git,Java Script images. Adds border color to CSS,Git,Java Script,HTML,VS Code images */
 .column img {
    position: relative;
     bottom: 350;
- 
     border: 15px solid aqua;
     padding: 5px;
     transition: 1s ease;
-
-
 }
 /* Positions HTML image */
 #html {
@@ -142,7 +134,6 @@ h4 {
         height: auto;
        
 } 
-
 #bob {
     visibility: hidden
 } 
@@ -175,7 +166,6 @@ height: auto;
     background-color: rgb(2, 2, 92);
       
 }
-
 
 };
    
